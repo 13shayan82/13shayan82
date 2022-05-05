@@ -4,4 +4,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/BNtptevTVp" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" height="30" width="40" /></a>
 </p>
