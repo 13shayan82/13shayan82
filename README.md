@@ -10,13 +10,14 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/BNtptevTVp" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="left">Languages and Tools:</h3>
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
