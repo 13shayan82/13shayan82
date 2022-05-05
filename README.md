@@ -9,7 +9,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob)
 
 
-ity7yiyuiky :
+<h3 align="left">Connect with me:</h3>
 
 
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
