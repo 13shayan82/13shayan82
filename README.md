@@ -18,3 +18,4 @@
 <p align="left">
 <a href="https://discord.gg/BNtptevTVp" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /></a>
 </p>
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
