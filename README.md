@@ -28,3 +28,8 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue)
+
+
+
+
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
