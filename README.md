@@ -33,4 +33,4 @@
 
 
 ![snake gif](https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.gif)
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
