@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=13shayan82&theme=tokyonight)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=13shayan82&theme=darkhub)](https://github.com/13shayan82/13shayan82/blob/main/README.md)
 
-
+<pre><span class="pl-en">print</span>(<span class="pl-s">f'Follow <span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">13shayan82</span><span class="pl-kos">}</span></span> on Github'</span>)</pre>
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob)
@@ -30,7 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue)
 
 
-<pre><span class="pl-en">print</span>(<span class="pl-s">f'Follow <span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">astraadev</span><span class="pl-kos">}</span></span> on Github'</span>)</pre>
+
 
 
 ![GitHub Snake dark](https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
