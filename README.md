@@ -30,7 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue)
 
 
-
+<pre><span class="pl-en">print</span>(<span class="pl-s">f'Follow <span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">astraadev</span><span class="pl-kos">}</span></span> on Github'</span>)</pre>
 
 
 ![GitHub Snake dark](https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
