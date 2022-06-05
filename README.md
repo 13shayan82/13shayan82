@@ -4,7 +4,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=13shayan82&theme=tokyonight">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob)
