@@ -26,12 +26,8 @@
   <br>
 </p>
 
-
-
-![](https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue)
-
-
-
-
+<p align="center">
+  <img src ="https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue">
+</p>
 
 ![GitHub Snake dark](https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
