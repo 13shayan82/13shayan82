@@ -28,9 +28,9 @@
   <img src ="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <br>
 </p>
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
 
-![GitHub Snake dark](https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
+<img src="https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
