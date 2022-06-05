@@ -1,9 +1,11 @@
-
-[![stats](https://github-readme-stats.vercel.app/api?username=13shayan82&count_private=true&show_icons=true&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13shayan82&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/13shayan82/13shayan82/blob/main/README.md)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=13shayan82&theme=tokyonight)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=13shayan82&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=13shayan82&langs_count=10&layout=compact&theme=tokyonight">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=13shayan82&theme=tokyonight">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob)
 
