@@ -29,8 +29,14 @@
   <br>
 </p>
 
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
-<img src="https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+<h2></h2>
+
+<p align="center">
+  <br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
+  <img src="https://github.com/13shayan82/13shayan82/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+  <br>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
