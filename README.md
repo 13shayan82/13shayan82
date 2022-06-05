@@ -5,8 +5,11 @@
   <br>
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=13shayan82&count_private=true&show_icons=true&theme=tokyonight">
+  <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=13shayan82&langs_count=10&layout=compact&theme=tokyonight">
+  <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=13shayan82&theme=tokyonight">
+  <br>
   <img src ="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
   <br>
   <br>
@@ -24,7 +27,6 @@
   <img src ="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src ="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <br>
   <br>
 </p>
 
