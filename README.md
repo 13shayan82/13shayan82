@@ -14,7 +14,9 @@
   <br>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<details>
+  <summary><b>Languages and Tools</b></summary>
+  <br/>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -28,7 +30,8 @@
   <img src ="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <br>
 </p>
-
+</details>
+  
 <p align="center">
   <img src ="https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue">
 </p>
