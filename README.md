@@ -10,7 +10,7 @@
   <br>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <img src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
