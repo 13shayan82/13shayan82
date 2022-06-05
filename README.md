@@ -3,7 +3,6 @@
 
 <p align="center">
   <br>
-  <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=13shayan82&count_private=true&show_icons=true&theme=tokyonight">
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=13shayan82&langs_count=10&layout=compact&theme=tokyonight">
