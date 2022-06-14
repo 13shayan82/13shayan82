@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue">
 
-<h2>🌟 About Me </h2>
+<h1>🌟 About Me </h1>
 
 - 🔥 Hi there, I’m Shayan ...
 - 🌱 I’m currently learning Python ...
@@ -17,7 +17,7 @@
   <br>
 </p>
 
-<h2>🚀 Languages and Tools </h2>
+<h1>🚀 Languages and Tools </h1>
 <p align="center">
   <br>
   <img src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -32,7 +32,7 @@
   <br>
 </p>
 
-<h2></h2>
+<hr></h2>
 
 <p align="center">
   <br>
