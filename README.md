@@ -1,11 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=13shayan82&style=flat&color=blue">
 
-<h2>🌟 About Me </h1>
+<h2 >🌟 About Me </h1>
 
 - 🔥 Hi there, I’m Shayan ...
 - 🌱 I’m currently learning Python ...
 
-<h2>⚡️ GitHub Stats </h2>
+<h2 align="center">⚡️ GitHub Stats ⚡️</h2>
 <p align="center">
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=13shayan82&theme=tokyonight">
@@ -17,7 +17,7 @@
   <br>
 </p>
 
-<h2>🚀 Languages and Tools </h2>
+<h2 align="center">🚀 Languages and Tools 🚀</h2>
 <p align="center">
   <br>
   <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
